@@ -1,4 +1,4 @@
-## Can technology mitigate the environmental crisis? Workshop'22, 2nd edition as part of of [EGC conference 2022](https://egc2022.univ-tours.fr/)
+## Can technology mitigate the environmental crisis? Workshop'22, 2nd edition as part of the [EGC conference 2022](https://egc2022.univ-tours.fr/)
 
 The aim of this workshop is to bring together researchers and industry representatives to discuss how their work and ideas can mitigate the environmental crisis.
 
